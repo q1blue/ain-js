@@ -55,7 +55,7 @@
     "@types/randombytes": "^2.0.0",
     "@types/semver": "^7.3.4",
     "axios": "^0.21.4",
-    "bip39": "^3.0.2",
+    "bip39": "^3.1.0",
     "browserify-cipher": "^1.0.1",
     "eventemitter3": "^4.0.0",
     "hdkey": "^1.1.1",
