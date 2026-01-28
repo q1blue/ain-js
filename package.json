@@ -59,7 +59,7 @@
     "browserify-cipher": "^1.0.1",
     "eventemitter3": "^4.0.0",
     "hdkey": "^1.1.1",
-    "lodash": "^4.17.20",
+    "lodash": "^4.17.23",
     "node-seal": "^4.5.7",
     "pbkdf2": "^3.0.17",
     "randombytes": "^2.1.0",
